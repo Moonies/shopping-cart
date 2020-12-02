@@ -13,7 +13,6 @@ Library    SeleniumLibrary
     เลือกช่องทางการชำระเงินเป็น    channel=Visa
     ระบุข้อมูลบัตรเครดิต    cardNumber=4555 3413 4907 7109    expiredMonth=03/27    name=Nareenart    cvv=372
     ลูกค้าจะเห็นเลขออเดอร์    orderId=OB34567    trackingNumber=111111
-
 *** Keywords ***
 เลือกของเล่น
     [Arguments]    ${productId}
